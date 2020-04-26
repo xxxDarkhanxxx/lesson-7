@@ -1,0 +1,74 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  color: #000000;
+  font-family: "Proxima Nova";
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.box {
+  margin-top: 125px;
+}
+
+.container {
+  width: 1920px;
+  height: 723px;
+  background-color: #f9f9f9;
+}
+
+.items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item {
+  margin-right: 51px;
+}
+
+.name {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  width: 84px;
+  height: 11px;
+  color: #000000;
+  font-family: "Proxima Nova";
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.price {
+  width: 95px;
+  height: 15px;
+  color: #000000;
+  font-family: "Proxima Nova";
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 41px;
+}
+
+.button {
+  background-color: transparent;
+  border: 1px solid #23bac1;
+  padding-top: 23px;
+  padding-bottom: 23px;
+  padding-left: 74px;
+  padding-right: 74px;
+}
+
+.image {
+  width: 263px;
+  height: 210px;
+}
+
+.button-text {
+  width: 51px;
+  height: 9px;
+  color: #23bac1;
+  font-family: "Proxima Nova";
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
